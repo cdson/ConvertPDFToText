@@ -1,0 +1,13 @@
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\bin\Debug\Pdf2Text.exe
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\bin\Debug\Pdf2Text.pdb
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\bin\Debug\commons-logging.dll
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\bin\Debug\fontbox-1.8.9.dll
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\bin\Debug\IKVM.Runtime.dll
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\bin\Debug\pdfbox-1.8.9.dll
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\obj\Debug\ConvertPDFToText.csprojResolveAssemblyReference.cache
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\obj\Debug\Pdf2Text.exe
+C:\Github\Anees\ConvertPDFToText\ConvertPDFToText\obj\Debug\Pdf2Text.pdb
